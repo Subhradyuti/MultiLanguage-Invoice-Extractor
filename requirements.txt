@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+langchain_community
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
+groq
+langchain-groq
+pypdf
+google-cloud-aiplatform>=1.38
